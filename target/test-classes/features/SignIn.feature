@@ -15,6 +15,6 @@ Feature: Sign In Feature
     And User click on create new account button
     And User fill the Sighup information with below data
       | name    | email                  | password  | confirmPassword |
-      | phantom | Takschool123456@tekschool.us | Tek@12345 | Tek@12345       |
+      | phantom | Takschool001@tekschool.us | Tek@12345 | Tek@12345       |
     And User click on signup button
     Then User should be logged into account page
