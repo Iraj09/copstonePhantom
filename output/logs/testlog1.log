@@ -3,3 +3,25 @@
 2023-03-06 20:26:15,137 [main] INFO logger_File - user clicked on Create New Accoun button
 2023-03-06 20:26:15,625 [main] INFO logger_File - user filled the signUp information
 2023-03-06 20:26:15,725 [main] INFO logger_File - user clicked on signup button
+2023-03-06 20:31:45,012 [main] INFO logger_File - User is on retail website
+2023-03-06 20:31:45,144 [main] INFO logger_File - user clicked on sign on option
+2023-03-06 20:31:45,233 [main] INFO logger_File - user clicked on Create New Accoun button
+2023-03-06 20:31:45,728 [main] INFO logger_File - user filled the signUp information
+2023-03-06 20:31:45,826 [main] INFO logger_File - user clicked on signup button
+2023-03-06 20:31:46,192 [main] INFO logger_File - user is logged into account page
+2023-03-06 20:54:47,197 [main] INFO logger_File - User is on retail website
+2023-03-06 20:54:47,320 [main] INFO logger_File - user clicked on sign on option
+2023-03-06 20:54:47,400 [main] INFO logger_File - user clicked on Create New Accoun button
+2023-03-06 20:54:47,817 [main] INFO logger_File - user filled the signUp information
+2023-03-06 20:54:47,900 [main] INFO logger_File - user clicked on signup button
+2023-03-06 20:55:56,206 [main] INFO logger_File - User is on retail website
+2023-03-06 20:55:56,357 [main] INFO logger_File - user clicked on sign on option
+2023-03-06 20:55:56,435 [main] INFO logger_File - user clicked on Create New Accoun button
+2023-03-06 20:55:56,942 [main] INFO logger_File - user filled the signUp information
+2023-03-06 20:55:57,049 [main] INFO logger_File - user clicked on signup button
+2023-03-06 20:57:08,643 [main] INFO logger_File - User is on retail website
+2023-03-06 20:57:08,766 [main] INFO logger_File - user clicked on sign on option
+2023-03-06 20:57:08,842 [main] INFO logger_File - user clicked on Create New Accoun button
+2023-03-06 20:57:09,245 [main] INFO logger_File - user filled the signUp information
+2023-03-06 20:57:09,324 [main] INFO logger_File - user clicked on signup button
+2023-03-06 20:57:09,581 [main] INFO logger_File - user is logged into account page
