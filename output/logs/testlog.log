@@ -25,3 +25,9 @@
 2023-03-06 20:57:09,245 - logger_File -INFO - user filled the signUp information
 2023-03-06 20:57:09,324 - logger_File -INFO - user clicked on signup button
 2023-03-06 20:57:09,581 - logger_File -INFO - user is logged into account page
+2023-03-07 09:38:01,036 - logger_File -INFO - User is on retail website
+2023-03-07 09:38:01,156 - logger_File -INFO - user clicked on sign on option
+2023-03-07 09:38:01,232 - logger_File -INFO - user clicked on Create New Accoun button
+2023-03-07 09:38:01,718 - logger_File -INFO - user filled the signUp information
+2023-03-07 09:38:01,793 - logger_File -INFO - user clicked on signup button
+2023-03-07 09:38:02,042 - logger_File -INFO - user is logged into account page
