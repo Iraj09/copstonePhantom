@@ -1,0 +1,5 @@
+2023-03-06 20:26:14,917 [main] INFO logger_File - User is on retail website
+2023-03-06 20:26:15,046 [main] INFO logger_File - user clicked on sign on option
+2023-03-06 20:26:15,137 [main] INFO logger_File - user clicked on Create New Accoun button
+2023-03-06 20:26:15,625 [main] INFO logger_File - user filled the signUp information
+2023-03-06 20:26:15,725 [main] INFO logger_File - user clicked on signup button
